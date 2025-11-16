@@ -8,6 +8,6 @@
 </div>
 
 <h1>Description</h1>
-<h4>This code simulates a two-wheeled robot with simple kinematics. Its path-following capabilities takes form of a Lyapunov Controller, while its obstacle avoidance algorithm is one I developed myself, called NGAWWI (Node-Generative Angle-Weighted Waypoint Injection).
+This code simulates a two-wheeled robot with simple kinematics. Its path-following capabilities takes form of a Lyapunov Controller, while its obstacle avoidance algorithm is one I developed myself, called NGAWWI (Node-Generative Angle-Weighted Waypoint Injection).
 
-If you are interested in how it works, you can read the .pdf for an indepth review on how it works.</h4>
+If you are interested in how it works, you can read the .pdf for an indepth review on how it works.
